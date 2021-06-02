@@ -10,7 +10,6 @@
 
  $dekorasi = query("SELECT *FROM dekor WHERE id = $id")[0];
 ?>
-
 <!DOCTYPE html>
 <html lang="en">
 <head>

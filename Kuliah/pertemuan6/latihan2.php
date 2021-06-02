@@ -6,9 +6,6 @@
  Pertemuan 6 - 7 Maret 2021
  Mempelajari Array Associative
 */
-?>
-
-<?php
 // $mahasiswa = [
 //     ["Bilqis Syahrina", "203040161", "syahrinabilqis@gmail.com", "Teknik Informatika"],
 //     ["2020304050", "Bilqis", "bilqis22@gmail.com","Teknik Industri"]
@@ -34,7 +31,6 @@ $mahasiswa = [
         "gambar" => "foto.png"
     ]
 ];
-
 ?> 
 <!DOCTYPE html>
 <html>
@@ -54,7 +50,5 @@ $mahasiswa = [
             <li>Email : <?= $mhs["email"]; ?></li>
         </ul>
     <?php endforeach; ?>
-
-
 </body>
 </html>

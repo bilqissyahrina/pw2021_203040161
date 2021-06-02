@@ -1,4 +1,8 @@
 <?php
+// Bilqis Alpa Syahrina
+// 203040161
+// Praktikum Pemrograman Web
+
 require 'functions.php';
 
 if(isset($_POST["register"])) {
@@ -15,7 +19,6 @@ if(isset($_POST["register"])) {
     }
 }
 ?>
-
 <!DOCTYPE html>
 <html lang="en">
 <head>

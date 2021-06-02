@@ -6,9 +6,6 @@
  Pertemuan 5 - 3 Maret 2021
  Mempelajari Array
 */
-?>
-
-<?php
 $mahasiswa = [
     ["Bilqis Syahrina", "203040161", "Teknik Informatika", 
     "syahrinabilqis@gmail.com"],
@@ -17,9 +14,7 @@ $mahasiswa = [
     ["Syahrina", "203040161", "Teknik Informatika", 
     "syahrinabilqis@gmail.com"]
 ];
-
 ?>
-
 <!DOCTYPE html>
 <head>
     <title>Daftar Mahasiswa</title>
@@ -38,7 +33,5 @@ $mahasiswa = [
 </ul>
 
 <?php endforeach; ?>
-
-
 </body>
 </html>

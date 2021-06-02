@@ -6,9 +6,6 @@
  Pertemuan 2 - 8 Februari 2021
  Mempelajari mengenal sintaks PHP
 */
-?>
-
-<?php
 // Pertemuan 2 - PHP Dasar
 //Sintaks PHP
 
@@ -59,6 +56,4 @@
 // &&, ||, !
 $x = 30;
 var_dump($x < 20 || $x % 2 == 0);
-
-
 ?>

@@ -6,9 +6,6 @@
  Pertemuan 5 - 3 Maret 2021
  Mempelajari Array
 */
-?>
-
-<?php
 // Pengulangan pada array
 // for / foreach
 $angka = [5,6,7,8,98,66,32,8];
@@ -46,15 +43,5 @@ $angka = [5,6,7,8,98,66,32,8];
 <?php foreach( $angka as $a ) : ?>
     <div class="kotak"><?= $a; ?></div>
 <?php endforeach; ?>
-
-
-
-
-
-
-
-
-
-
 </body>
 </html>

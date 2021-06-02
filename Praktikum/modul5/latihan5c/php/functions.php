@@ -1,4 +1,4 @@
-<<?php 
+<?php 
 function koneksi()
 {
     $conn = mysqli_connect("localhost", "root", "");

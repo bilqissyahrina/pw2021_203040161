@@ -1,4 +1,9 @@
 <?php 
+// Bilqis Alpa Syahrina
+// 203040161
+// Jum'at 13:00
+
+
  if(!isset($_GET['id'])) {
    header("location: ../index.php");
    exit;
@@ -10,7 +15,6 @@
 
  $dekorasi = query("SELECT *FROM dekor WHERE id = $id")[0];
 ?>
-
 <!DOCTYPE html>
 <html lang="en">
 <head>

@@ -1,4 +1,8 @@
 <?php
+// Bilqis Alpa Syahrina
+// 203040161
+// Praktikum Pemrograman Web
+
 //cek cookie
 if(isset($_COOKIE['username']) && isset($_COOKIE['hash'])) {
     $username = $_COOKIE['username'];

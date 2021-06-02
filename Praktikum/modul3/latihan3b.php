@@ -2,9 +2,6 @@
 // Bilqis Alpa Syahrina
 // 203040161
 // Jum'at 13:00
-?>
-
-<?php
 
 $terkenal = ["Mohammad Salah", "Cristiano Ronaldo", "Lionel Messi
 ", "Zlatan Ibrahimovic", "Neymar Jr"];

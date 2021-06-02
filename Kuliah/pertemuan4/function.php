@@ -6,15 +6,10 @@
  Pertemuan 4 - 20 Februari 2021
  Mempelajari Function
 */
-?>
-
-<?php
     function salam($waktu = "Datang", $nama = "Admin") {
         return "Selamat $waktu, $nama!";
     }
 ?>
-
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -22,7 +17,5 @@
 </head>
 <body>
     <h1><?= salam("Pagi", "Bilqis"); ?></h1>
-
 </body>
-
 </html>

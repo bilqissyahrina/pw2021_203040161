@@ -6,9 +6,6 @@
  Pertemuan 5 - 3 Maret 2021
  Mempelajari Array
 */
-?>
-
-<?php
 // Array
 // variabel yang dapat memiliki banyak nilai
 // elemen pada array boleh memiliki tipe data yang berbeda
@@ -40,7 +37,4 @@ $hari[] = "Kamis";
 $hari[] = "Jum'at";
 echo "<br>";
 var_dump($hari);
-
-
-
 ?>

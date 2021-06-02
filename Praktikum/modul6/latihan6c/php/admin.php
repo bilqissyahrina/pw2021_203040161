@@ -19,7 +19,6 @@
         $dekorasi = query("SELECT * FROM dekor");
         }
 ?>
-
 <!DOCTYPE html>
 <html lang="en">
 <head>

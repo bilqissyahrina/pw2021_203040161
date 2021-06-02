@@ -6,9 +6,6 @@
  Pertemuan 6 - 7 Maret 2021
  Mempelajari Array Associative
 */
-?>
-
-<?php
 // array
 // membuat array
 
@@ -26,7 +23,6 @@
 //menampilkan 1 elemen pada array
 // echo $arr[0];
 ?>
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -52,7 +48,6 @@
     </style>
 </head>
 <body>
-
 <?php 
 $angka = [
     [1,2,3],
@@ -66,17 +61,5 @@ $angka = [
     <?php endforeach; ?>
     <div class="clear"></div>
 <?php endforeach; ?>
-
-
-
-
-
-
-
-
-
-
-
-
 </body>
 </html>

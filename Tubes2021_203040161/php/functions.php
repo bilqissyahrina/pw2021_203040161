@@ -1,4 +1,7 @@
 <?php 
+// Bilqis Alpa Syahrina
+// 203040161
+// Praktikum Pemrograman Web
 
 function koneksi()
 {

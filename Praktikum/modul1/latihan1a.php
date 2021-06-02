@@ -1,10 +1,8 @@
 <?php  
 // Bilqis Alpa Syahrina
 // 203040161
-// Pemrograman Web 10:00 - 11:00
+// Jum'at 13:00
 ?>
-
-
 <!DOCTYPE html>
 <html lang="en">
 

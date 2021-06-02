@@ -1,4 +1,8 @@
 <?php 
+// Bilqis Alpa Syahrina
+// 203040161
+// Praktikum Pemrograman Web
+
     session_start();
 
     if(!isset($_SESSION["username"])) {
@@ -17,7 +21,6 @@
 
  $dekorasi = query("SELECT *FROM dekor WHERE id = $id")[0];
 ?>
-
 <!DOCTYPE html>
 <html lang="en">
 <head>

@@ -19,7 +19,7 @@
 
 // strtotime
 // echo date("l", strtotime("22 jun 2002"));
-
+?>
 
 
 

@@ -1,4 +1,8 @@
 <?php 
+// Bilqis Alpa Syahrina
+// 203040161
+// Jum'at 13:00
+
     require 'php/functions.php';
 
     $dekorasi = query("SELECT * FROM dekor")

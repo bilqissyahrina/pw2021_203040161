@@ -21,10 +21,7 @@ if(isset($_POST['ubah'])) {
    echo "data gagal diubah";
  }
 }
-
 ?>
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>

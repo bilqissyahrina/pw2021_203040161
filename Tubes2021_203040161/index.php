@@ -1,4 +1,8 @@
 <?php 
+// Bilqis Alpa Syahrina
+// 203040161
+// Praktikum Pemrograman Web
+
     require 'php/functions.php';
 
     $dekorasi = query("SELECT * FROM dekor")

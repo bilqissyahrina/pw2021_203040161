@@ -6,9 +6,6 @@
  Pertemuan 3 - 18 Februari 2021
  Mempelajari control flow / struktur kendali
 */
-?>
-
-<?php 
 // Pengulangan 
 // for 
 // while 
@@ -44,9 +41,4 @@ if( $x < 20) {
 } else {
     echo "salah";
 }
-
-
-
-
-
 ?>

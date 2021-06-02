@@ -12,7 +12,6 @@ $rows = [];
  }
 
  $mahasiswa = $rows;
-
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -51,6 +50,5 @@ $rows = [];
   </tr>
   <?php endforeach; ?>
 </table>
-
 </body>
 </html>

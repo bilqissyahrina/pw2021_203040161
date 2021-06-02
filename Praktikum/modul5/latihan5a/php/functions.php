@@ -1,4 +1,8 @@
-<<?php 
+<?php 
+// Bilqis Alpa Syahrina
+// 203040161
+// Jum'at 13:00
+
 function koneksi()
 {
     $conn = mysqli_connect("localhost", "root", "");

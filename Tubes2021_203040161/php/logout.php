@@ -1,4 +1,8 @@
 <?php
+// Bilqis Alpa Syahrina
+// 203040161
+// Praktikum Pemrograman Web
+
 session_start();
 session_destroy();
 header("Location: ../index.php");

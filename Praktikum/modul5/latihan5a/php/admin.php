@@ -1,9 +1,12 @@
-<?php 
+<?php
+// Bilqis Alpa Syahrina
+// 203040161
+// Jum'at 13:00
+
     require 'functions.php';
 
     $dekorasi = query("SELECT * FROM dekor")
 ?>
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
